@@ -1,6 +1,6 @@
 ## Hello 👋
 
-- 🔭 I’m currently working on developing tools for heritage science and preventive conservation
+- 🔭 I’m currently working on developing data science tools for heritage science and preventive conservation
 
 <!--
 **BhavShah01/BhavShah01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
