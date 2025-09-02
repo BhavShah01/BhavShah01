@@ -1,6 +1,7 @@
 ## Hello 👋
 
 - 🔭 I’m a heritage conservation scientist currently working on developing data science tools for heritage science and preventive conservation
+- 🔭 I’m currently working on the following R packages: [`ConSciR`](https://bhavshah01.github.io/ConSciR/index.html) and [`SaltsR`}(https://bhavshah01.github.io/SaltsR/) 
 - 👯 I’m looking to collaborate on ...
 
 <!--
